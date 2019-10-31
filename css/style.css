@@ -77,6 +77,10 @@ img.icon{
   width: 200px;
   height: auto;
 }
+#Article
+img.Article
+{width: 600px;
+height: auto;}
 
 h1, h2, h3, h4 {
   margin-top: 0;
